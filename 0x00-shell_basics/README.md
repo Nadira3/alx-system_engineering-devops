@@ -11,3 +11,6 @@ This is a list of all the scripts and their functions
 9-firstdirdeletion - Deletes the directory my_first_directory that is in the /tmp directory
 10-back - changes the working directory to the previous one
 11-lists - lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+12-file_type - prints a type or named file
+13-symbolic_link - creates a symbolic link
+14-copy_html - copies html files
