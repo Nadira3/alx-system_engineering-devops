@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pfm | sort -V
+ls -mpa
