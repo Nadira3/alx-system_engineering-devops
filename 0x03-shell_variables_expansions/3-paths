@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | grep ^d | wc -l
+cut -d ':' -f1 $PATH | wc -l
